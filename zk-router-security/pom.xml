@@ -20,6 +20,12 @@
 			<artifactId>zk-router</artifactId>
 			<version>0.0.2-SNAPSHOT</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.zkoss.zk</groupId>
+			<artifactId>zkspring-security</artifactId>
+			<version>3.1.1</version>
+		</dependency>
 	</dependencies>
 	
 	<build>
