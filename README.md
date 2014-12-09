@@ -1,4 +1,9 @@
-zk-router-security
+Introduction
 ==================
 
-Security plugin for ZK-Router
+The is a security plugin for [ZK-Router](https://github.com/l-atanasov/zk-router/). It adds the ability to declare which user roles have access to which routes.
+
+Dependencies
+==================
+
+In addition to ZK-Router, this plugins depends on ZK-Spring-Security which in turn depends on Spring Security
