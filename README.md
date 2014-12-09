@@ -7,3 +7,8 @@ Dependencies
 ==================
 
 In addition to ZK-Router, this plugins depends on ZK-Spring-Security which in turn depends on Spring Security
+
+How it works
+==================
+
+Please see [this blog post](http://blog.pastelstudios.com/2014/12/09/zk-router-security/) to learn how the plugin works.
